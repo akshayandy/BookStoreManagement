@@ -35,23 +35,23 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-The point of sale (POS) application developed using Netbeans is a comprehensive solution designed to meet the needs of businesses looking for a reliable and user-friendly platform for managing their sales transactions. The application offers a range of functionalities, including adding items, calculating the total, subtotal, tax, change, and payment method. It also includes a numpad for easy entry of amounts, clear, reset, pay, print, and exit options to streamline the checkout process. The application is designed to be simple and intuitive, with a clean and modern user interface, making it easy for users to navigate and operate. This POS application is an excellent choice for businesses looking for an efficient and robust sales management solution. I took almost 10 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant feature pages
+The Book Store Management project is a portal designed to help users keep track of their personal book collection. With the ability to add any book with its details, users can easily manage their library and keep track of their reading progress. Additionally, the portal allows users to modify book details, delete books, and register new books to their collection. This project aims to simplify book management and provide users with an intuitive and easy-to-use interface. With its various functionalities, the Book Store Management portal is the perfect solution for book enthusiasts who want to stay organized and keep track of their literary adventures.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-You need Apache Netbeans software to work on this project.
+You need Eclipse EE edition, Tomcat Server, Spring Framework software to work on this project.
 Go to google and search,
 
 ```
-Apache NetBeans download, download the exe file.
+Download all the required softwares.
 ```
 
 ### Installing
 After downloading run the exe file.
 
-The inatallation is simple and easy. same as eclipse.
+The inatallation is simple and easy..
 
 ```
 After checking all the necessary tools are opted.Click install.
