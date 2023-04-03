@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="BSM.png" alt="Project logo"></a>
+ <img width=500px height=200px src="BSM.jpg" alt="Project logo"></a>
 </p>
 
 
@@ -41,7 +41,7 @@ The Book Store Management project is a portal designed to help users keep track 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-You need Eclipse EE edition, Tomcat Server, Spring Framework software to work on this project.
+You need Eclipse EE edition/STS, Tomcat Server, Spring Framework software to work on this project.
 Go to google and search,
 
 ```
@@ -64,17 +64,11 @@ After the progress is done to 100
 Click Finish.
 ```
 
-In my machine I've used Apache NetBeans version 16.
+In my machine I've used Spring tool Suit.
 
 ## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-Explain what these tests test and why
-
-```
-Give an example
-```
+Open Spring Tool Suit and Run the project on Spring boot. Check the port on which the server is running.
+Open a browser and go to local host and check webpage is running.
 
 ## 🎈 Usage <a name="usage"></a>
 Add notes about how to use the system.
