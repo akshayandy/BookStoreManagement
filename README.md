@@ -1,20 +1,20 @@
-# PointOfSale
+# Book Store Management
 
 # Project Documentation
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="Project logo"></a>
+ <img width=500px height=200px src="BSM.png" alt="Project logo"></a>
 </p>
 
 
-<h3 align="center">Point of Sale</h3>
+<h3 align="center">Book Store Management</h3>
 
 <div align="center">
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+  [![GitHub Issues](https://img.shields.io/github/issues/akshayandy/PointOfSale.svg)](https://github.com/akshayandy/PointOfSale/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/akshayandy/PointOfSale.svg)](https://github.com/akshayandy/PointOfSale/issues)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -31,8 +31,6 @@
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -78,13 +76,6 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## 🎈 Usage <a name="usage"></a>
 Add notes about how to use the system.
 
@@ -98,7 +89,7 @@ Add additional notes about how to deploy this on a live system.
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@SkillLymc](https://github.com/kylelobo) - FSD
+- [@akshayandy](https://github.com/akshayandy) - FSD
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
