@@ -10,15 +10,6 @@
 
 <h3 align="center">Book Store Management</h3>
 
-<div align="center">
-
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/akshayandy/PointOfSale.svg)](https://github.com/akshayandy/PointOfSale/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/akshayandy/PointOfSale.svg)](https://github.com/akshayandy/PointOfSale/issues)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
-
 ---
 
 <p align="center"> Few lines describing your project.
@@ -71,23 +62,17 @@ Open Spring Tool Suit and Run the project on Spring boot. Check the port on whic
 Open a browser and go to local host and check webpage is running.
 
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+portal designed to help users keep track of their personal book collection. With the ability to add any book with its details, users can easily manage their library and keep track of their reading progress. Additionally, the portal allows users to modify book details, delete books, and register new books to their collection.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Spring Boot](https://spring.io/) - Spring Boot
+- [Apache Tomcat](https://tomcat.apache.org/index.html) - Apache Tomcat
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@akshayandy](https://github.com/akshayandy) - FSD
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- @imaginary Enginnering
