@@ -12,10 +12,6 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
-
 ## 📝 Table of Contents
 - [About](#about)
 - [Getting Started](#getting_started)
@@ -48,8 +44,7 @@ The inatallation is simple and easy..
 After checking all the necessary tools are opted.Click install.
 ```
 
-After the progress is done to 100
-%
+After the progress is done to 100%
 
 ```
 Click Finish.
@@ -60,6 +55,13 @@ In my machine I've used Spring tool Suit.
 ## 🔧 Running the tests <a name = "tests"></a>
 Open Spring Tool Suit and Run the project on Spring boot. Check the port on which the server is running.
 Open a browser and go to local host and check webpage is running.
+
+### Break down into end to end tests
+After opening the local host.
+
+```
+Click the Register, Add, Remove buttons and enter required info and test functions.
+```
 
 ## 🎈 Usage <a name="usage"></a>
 portal designed to help users keep track of their personal book collection. With the ability to add any book with its details, users can easily manage their library and keep track of their reading progress. Additionally, the portal allows users to modify book details, delete books, and register new books to their collection.
